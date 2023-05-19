@@ -1,0 +1,9 @@
+* salza2
+
+ZLIB compression in Common Lisp.
+
+|---------+--------------------------------------------------------------------------|
+| source  | file:https://github.com/xach/salza2/archive/refs/tags/release-2.1.tar.gz |
+| version | 2.1                                                                      |
+| systems | salza2                                                                   |
+|---------+--------------------------------------------------------------------------|
